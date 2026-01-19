@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there, I'm Álvaro Mora Mora! 👋</h2>
+  <h1>Hi there, I'm Álvaro Mora Mora! 👋</h1>
   <p>Full Stack Developer | Video Game Enthusiast 🎮</p>
 </div>
 
