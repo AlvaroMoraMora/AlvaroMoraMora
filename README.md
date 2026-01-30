@@ -45,8 +45,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroMoraMora&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMoraMora&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AlvaroMoraMora&theme=radical" alt="Lenguajes más usados" />
 </div>
 
 <br/>
