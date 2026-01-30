@@ -45,9 +45,8 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlvaroMoraMora&theme=radical" alt="Stats" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AlvaroMoraMora&theme=tokyonight" alt="Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlvaroMoraMora&theme=radical" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMoraMora&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 <br/>
