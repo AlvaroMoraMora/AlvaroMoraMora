@@ -46,7 +46,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlvaroMoraMora&theme=radical" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMoraMora&layout=compact&theme=radical&hide_border=true&cache_bust=1" alt="Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlvaroMoraMora&layout=compact&theme=radical" alt="Languages"/>
 </div>
 
 <br/>
