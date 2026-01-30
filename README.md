@@ -45,7 +45,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroMoraMora&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroMoraMora)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMoraMora&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
