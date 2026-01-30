@@ -47,7 +47,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlvaroMoraMora&theme=radical" alt="Stats" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AlvaroMoraMora&theme=radical" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AlvaroMoraMora&theme=tokyonight" alt="Languages" />
 </div>
 
 <br/>
